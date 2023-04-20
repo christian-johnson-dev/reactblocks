@@ -3,6 +3,8 @@
 This is Christian Johnson's work for Coding Dojo's Part-Time Accelerated MERN Stack.
 It was submitted on April 19, 2023.
 
+The project can be viewed [HERE](https://reactblocks.vercel.app/).
+
 ## Assignment description
 
 This is a basic React application that accepts a color in an input field. When the form is submitted a box-shaped div is generated and placed next to previous form submissions wrapping as necessary.
